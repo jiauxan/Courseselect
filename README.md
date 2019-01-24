@@ -1,6 +1,6 @@
 # courseselect
 
-> A Vue.js project
+> 这是一个基于vue.js与spring boot实现的前后端分离的小项目，实现了简单的学生选课管理系统，这是前段部分
 
 ## Build Setup
 
